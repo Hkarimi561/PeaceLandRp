@@ -1,0 +1,1 @@
+INSERT INTO `peacelandrp`.`items` (`name`, `label`, `limit`) VALUES ('sim_card', 'Sim Card', '10');
